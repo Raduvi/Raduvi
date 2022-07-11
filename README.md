@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raduvi
-- 👀 I’m interested in web development and game dev.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning more about React, DevOps and whatever shiny thing I see.
 - 📫 patruica.radu@gmail.com
 

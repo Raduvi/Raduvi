@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raduvi
 - 👀 I’m interested in web development and game dev.
-- 🌱 I’m currently learning .net core, angular and whatever shiny thing I see.
+- 🌱 I’m currently learning more about React, DevOps and whatever shiny thing I see.
 - 📫 patruica.radu@gmail.com
 
 <!---

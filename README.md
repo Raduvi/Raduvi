@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Raduvi
-- 🌱 I am a Senior Angular & .NET Full Stack Developer with 6+ years of experience. I design and implement clean, fast, and readable code, and I am passionate about the software architecture and design of highly scalable distributed systems.
-- 👀 I’m interested in Web Development and Game Development.
+Hi, I’m @Raduvi 👋
+
+🌱 I am a Senior Angular & .NET Full Stack Developer with 6+ years of experience. I design and implement clean, fast, and readable code, and I am passionate about the software architecture and design of highly scalable distributed systems. 
+👀 I’m interested in Web Development and Game Development.
 
 About my main skills:
 
@@ -22,8 +23,8 @@ About my main skills:
 - OpenID Connect
 - REST API Design
 - Microservices
-  
-- 📧 Email: patruica.radu@gmail.com
+
+📧 Email: patruica.radu@gmail.com
 
 <!---
 Raduvi/Raduvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

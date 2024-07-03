@@ -9,13 +9,11 @@ About my main skills:
 - ASP.NET Core
 - C#
 - EF Core
-- RabbitMQ
 
 ✔️ 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝
 - Angular
 - TypeScript
 - RxJs
-- NgRx / NGXS
 
 ✔️ 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧
 - SOLID

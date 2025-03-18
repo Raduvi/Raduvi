@@ -1,6 +1,6 @@
 Hi, I’m @Raduvi 👋
 
-🌱 I am a Senior Angular & .NET Full Stack Developer with 6+ years of experience. I design and implement clean, fast, and readable code, and I am passionate about the software architecture and design of highly scalable distributed systems. 
+I’m a Senior Web Developer with 9 years of experience building and maintaining web applications. I focus on creating smooth, intuitive, and scalable solutions, always keeping user experience in mind.
 👀 I’m interested in Web Development and Game Development.
 
 **Back End** 🖥️

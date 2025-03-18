@@ -6,26 +6,35 @@ Hi, I’m @Raduvi 👋
 **Back End** 🖥️
 
 ASP.NET Core
+
 C#
+
 EF Core
 
 **Front End** 🎨
 
 Angular
+
 TypeScript
+
 RxJS
 
 **Cloud & DevOps** ☁️⚙️
 
 Azure
+
 DevOps
 
 **𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧** 🧠️
 
 SOLID
+
 CQRS
+
 OpenID Connect
+
 REST API Design
+
 Microservices
 
 📧 Email: patruica.radu@gmail.com

@@ -4,20 +4,24 @@ Hi, I’m @Raduvi 👋
 👀 I’m interested in Web Development and Game Development.
 
 **Back End** 🖥️
+
 ASP.NET Core
 C#
 EF Core
 
 **Front End** 🎨
+
 Angular
 TypeScript
 RxJS
 
 **Cloud & DevOps** ☁️⚙️
+
 Azure
 DevOps
 
 **𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧** 🧠️
+
 SOLID
 CQRS
 OpenID Connect

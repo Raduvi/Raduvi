@@ -17,8 +17,6 @@ Angular
 
 TypeScript
 
-RxJS
-
 **Cloud & DevOps** ☁️⚙️
 
 Azure
@@ -29,13 +27,10 @@ DevOps
 
 SOLID
 
-CQRS
-
-OpenID Connect
-
 REST API Design
 
 Microservices
+
 
 📧 Email: patruica.radu@gmail.com
 
